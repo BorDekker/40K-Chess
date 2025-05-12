@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\borde\\Documents\\C\u002B\u002B\\Warhammer 40k Chess game\\40k Chess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E00CFD-12C2-478A-B51C-97974772A891}|Warhammer 40k Chess\\Warhammer 40k Chess.vcxproj|C:\\Users\\borde\\Documents\\C\u002B\u002B\\Warhammer 40k Chess game\\40k Chess\\Warhammer 40k Chess\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0E00CFD-12C2-478A-B51C-97974772A891}|Warhammer 40k Chess\\Warhammer 40k Chess.vcxproj|solutionrelative:Warhammer 40k Chess\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E00CFD-12C2-478A-B51C-97974772A891}|Warhammer 40k Chess\\Warhammer 40k Chess.vcxproj|C:\\Users\\borde\\Documents\\C\u002B\u002B\\Warhammer 40k Chess game\\40k Chess\\Warhammer 40k Chess\\Piece.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0E00CFD-12C2-478A-B51C-97974772A891}|Warhammer 40k Chess\\Warhammer 40k Chess.vcxproj|solutionrelative:Warhammer 40k Chess\\Piece.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E00CFD-12C2-478A-B51C-97974772A891}|Warhammer 40k Chess\\Warhammer 40k Chess.vcxproj|C:\\Users\\borde\\Documents\\C\u002B\u002B\\Warhammer 40k Chess game\\40k Chess\\Warhammer 40k Chess\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0E00CFD-12C2-478A-B51C-97974772A891}|Warhammer 40k Chess\\Warhammer 40k Chess.vcxproj|solutionrelative:Warhammer 40k Chess\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E00CFD-12C2-478A-B51C-97974772A891}|Warhammer 40k Chess\\Warhammer 40k Chess.vcxproj|C:\\Users\\borde\\Documents\\C\u002B\u002B\\Warhammer 40k Chess game\\40k Chess\\Warhammer 40k Chess\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0E00CFD-12C2-478A-B51C-97974772A891}|Warhammer 40k Chess\\Warhammer 40k Chess.vcxproj|solutionrelative:Warhammer 40k Chess\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E00CFD-12C2-478A-B51C-97974772A891}|Warhammer 40k Chess\\Warhammer 40k Chess.vcxproj|C:\\Users\\borde\\Documents\\C\u002B\u002B\\Warhammer 40k Chess game\\40k Chess\\Warhammer 40k Chess\\Piece.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0E00CFD-12C2-478A-B51C-97974772A891}|Warhammer 40k Chess\\Warhammer 40k Chess.vcxproj|solutionrelative:Warhammer 40k Chess\\Piece.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\borde\\Documents\\C\u002B\u002B\\Warhammer 40k Chess game\\40k Chess\\Warhammer 40k Chess\\main.cpp",
+              "RelativeDocumentMoniker": "Warhammer 40k Chess\\main.cpp",
+              "ToolTip": "C:\\Users\\borde\\Documents\\C\u002B\u002B\\Warhammer 40k Chess game\\40k Chess\\Warhammer 40k Chess\\main.cpp",
+              "RelativeToolTip": "Warhammer 40k Chess\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-15T20:20:57.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\borde\\Documents\\C\u002B\u002B\\Warhammer 40k Chess game\\40k Chess\\Warhammer 40k Chess\\Game.cpp",
+              "RelativeDocumentMoniker": "Warhammer 40k Chess\\Game.cpp",
+              "ToolTip": "C:\\Users\\borde\\Documents\\C\u002B\u002B\\Warhammer 40k Chess game\\40k Chess\\Warhammer 40k Chess\\Game.cpp",
+              "RelativeToolTip": "Warhammer 40k Chess\\Game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-10T13:41:37.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\borde\\Documents\\C\u002B\u002B\\Warhammer 40k Chess game\\40k Chess\\Warhammer 40k Chess\\Game.h",
+              "RelativeDocumentMoniker": "Warhammer 40k Chess\\Game.h",
+              "ToolTip": "C:\\Users\\borde\\Documents\\C\u002B\u002B\\Warhammer 40k Chess game\\40k Chess\\Warhammer 40k Chess\\Game.h",
+              "RelativeToolTip": "Warhammer 40k Chess\\Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-10T13:40:54.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Piece.cpp",
+              "DocumentMoniker": "C:\\Users\\borde\\Documents\\C\u002B\u002B\\Warhammer 40k Chess game\\40k Chess\\Warhammer 40k Chess\\Piece.cpp",
+              "RelativeDocumentMoniker": "Warhammer 40k Chess\\Piece.cpp",
+              "ToolTip": "C:\\Users\\borde\\Documents\\C\u002B\u002B\\Warhammer 40k Chess game\\40k Chess\\Warhammer 40k Chess\\Piece.cpp",
+              "RelativeToolTip": "Warhammer 40k Chess\\Piece.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-10T13:43:52.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Piece.h",
+              "DocumentMoniker": "C:\\Users\\borde\\Documents\\C\u002B\u002B\\Warhammer 40k Chess game\\40k Chess\\Warhammer 40k Chess\\Piece.h",
+              "RelativeDocumentMoniker": "Warhammer 40k Chess\\Piece.h",
+              "ToolTip": "C:\\Users\\borde\\Documents\\C\u002B\u002B\\Warhammer 40k Chess game\\40k Chess\\Warhammer 40k Chess\\Piece.h",
+              "RelativeToolTip": "Warhammer 40k Chess\\Piece.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-10T13:43:23.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
