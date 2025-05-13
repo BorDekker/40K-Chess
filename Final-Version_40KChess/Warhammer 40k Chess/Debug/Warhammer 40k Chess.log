@@ -1,0 +1,4 @@
+﻿  Game.cpp
+C:\Users\borde\Documents\C++\Warhammer 40k Chess game\40k Chess\Warhammer 40k Chess\Game.cpp(166,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\borde\Documents\C++\Warhammer 40k Chess game\40k Chess\Warhammer 40k Chess\Game.cpp(166,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Warhammer 40k Chess.vcxproj -> C:\Users\borde\Documents\C++\Warhammer 40k Chess game\40k Chess\Debug\Warhammer 40k Chess.exe
